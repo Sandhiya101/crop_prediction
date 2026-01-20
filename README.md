@@ -1,4 +1,4 @@
-    AI-Based Crop Recommendation System 🌾
+AI-Based Crop Recommendation System 🌾
 📌 Project Description
 This project is a machine learning based crop recommendation system that suggests the most suitable crop based on soil nutrients and environmental conditions.
 
